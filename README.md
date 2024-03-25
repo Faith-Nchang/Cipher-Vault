@@ -1,4 +1,4 @@
-# Cipher-Vault
+# Crypto Manager
 Caesar Cipher and Giovan Battista Bellaso cipher
 
 # Caesar Cipher:
