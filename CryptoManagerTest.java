@@ -1,24 +1,10 @@
 import static org.junit.jupiter.api.Assertions.*;
 
 /* 
+ * description: JUnit test for the CryptoManage class
 
- * Class: CMSC203 CRN21575
-
- * Instructor: Grigoriy Grinberg
-
-description: JUnit test for the CryptoManage class
-
- * Due: 10/09/2023
-
- * Platform/compiler: eclipse
-
- * I pledge that I have completed the programming  assignment independently.  
-
-*  I have not copied the code from a student or any source.  
-
-*  I have not given my code to any student. 
-
-*  Print your Name here:Faith Nchang
+ 
+ * @author here:Faith Nchang
 
 */ 
 
@@ -26,7 +12,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class CryptoManagerTestStudent {
+class CryptoManagerTest {
 
 	@BeforeEach
 	public void setUp() throws Exception {
